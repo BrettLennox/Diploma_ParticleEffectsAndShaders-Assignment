@@ -31,6 +31,14 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    m_Floats: []
-    m_Colors: []
+    m_Floats:
+    - _AngleOffset: 2.3
+    - _CellDensity: 34.7
+    - _NoiseScale: 0.8
+    - _Offset: 0
+    - _OffsetTime: 3.12
+    - _Power: 2.7
+    - _TimeMultiplier: 0.11
+    m_Colors:
+    - _Color: {r: 0.21172087, g: 0.90544456, b: 1.1486983, a: 0}
   m_BuildTextureStacks: []
