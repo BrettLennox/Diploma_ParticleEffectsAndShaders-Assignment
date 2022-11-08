@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Blood_mat
+  m_Shader: {fileID: -6465566751694194690, guid: e6ac8fda140bb214e9df4974281b4ab0, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BottomLine: 0.64
+    - _FresnelPower: 4.31
+    - _Metallic: 0.913
+    - _NoiseScale: 0.5
+    - _Smoothness: 0.71
+    - _TimeMultiplier: 0.14
+    - _TopLine: 0.66
+    m_Colors:
+    - _BaseColour: {r: 1.3350787, g: 0, b: 0.055919528, a: 1}
+    - _BottomColour: {r: 0.7958115, g: 0, b: 0.020942407, a: 1}
+    - _TopColour: {r: 0.6102292, g: 0.12043996, b: 0.032117326, a: 1}
+  m_BuildTextureStacks: []
