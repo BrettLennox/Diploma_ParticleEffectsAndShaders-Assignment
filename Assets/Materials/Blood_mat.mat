@@ -33,18 +33,21 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _BottomLine: 1
-    - _FresnelPower: 5.53
-    - _Metallic: 0.75
-    - _Multiplier: 1
+    - _Float: 0
+    - _FresnelPower: 1
+    - _Metallic: 1
+    - _Multiplier: 0.659
     - _NoiseScale: 14.79
-    - _Power: 1.41
-    - _Smoothness: 0.806
-    - _TimeMultiplier: -0.15
+    - _Power: 1.06
+    - _Smoothness: 1
+    - _SpinMultiplier: 0.11
+    - _TimeMultiplier: 0.311
     - _TopLine: 0.693
     m_Colors:
     - Color_2f537072b1e04e6c84aae356d12c7e93: {r: 4.8586383, g: 0, b: 0, a: 1}
-    - Color_b7451247dd554846907ff4282aa18971: {r: 0.11320752, g: 0, b: 0, a: 1}
-    - _BaseColour: {r: 0.333, g: 0, b: 0.0075680953, a: 1}
+    - Color_b7451247dd554846907ff4282aa18971: {r: 0.012745098, g: 0, b: 0, a: 1}
+    - Color_e74d19712664480d98d4a7141f8a0dea: {r: 0, g: 0, b: 0, a: 0}
+    - _BaseColour: {r: 0.31132078, g: 0, b: 0.016102742, a: 1}
     - _BottomColour: {r: 0.7958115, g: 0, b: 0.020942407, a: 1}
     - _TopColour: {r: 0.33962262, g: 0, b: 0.013297764, a: 1}
   m_BuildTextureStacks: []

@@ -39,7 +39,7 @@ Material:
     - _BaseGradientPower: 3.36
     - _FresnelPower: 10
     - _GlitterOffset: 0.65
-    - _NoiseRotationSpeed: 7.23
+    - _NoiseRotationSpeed: 1
     - _ReversePower: -0.84
     - _SplitOffset: 3.78
     m_Colors:
