@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Blood_mat
-  m_Shader: {fileID: -6465566751694194690, guid: e6ac8fda140bb214e9df4974281b4ab0, type: 3}
+  m_Name: Shield_mat
+  m_Shader: {fileID: -6465566751694194690, guid: 8b0f632b44c556b40b58b7f2b338c5f0, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -32,15 +32,13 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _BottomLine: 0.64
-    - _FresnelPower: 4.31
-    - _Metallic: 0.913
-    - _NoiseScale: 0.5
-    - _Smoothness: 0.71
-    - _TimeMultiplier: 0.14
-    - _TopLine: 0.66
+    - _AngleOffset: 2.3
+    - _CellDensity: 34.7
+    - _NoiseScale: 0.8
+    - _Offset: 0
+    - _OffsetTime: 3.12
+    - _Power: 2.7
+    - _TimeMultiplier: 0.05
     m_Colors:
-    - _BaseColour: {r: 1.3350787, g: 0, b: 0.055919528, a: 1}
-    - _BottomColour: {r: 0.7958115, g: 0, b: 0.020942407, a: 1}
-    - _TopColour: {r: 0.6102292, g: 0.12043996, b: 0.032117326, a: 1}
+    - _Color: {r: 0.21172087, g: 0.90544456, b: 1.1486983, a: 0}
   m_BuildTextureStacks: []

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BlackGlitter_mat
+  m_Shader: {fileID: -6465566751694194690, guid: 60a7c60a7e26ef049bcbd9b9eeee12fb, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_2a9d468fdf2b43859e51239789920a1a:
+        m_Texture: {fileID: 2800000, guid: a140eb21ddd29384d918d1577518e33e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BaseGradientPower: 3.36
+    - _FresnelPower: 10
+    - _GlitterOffset: 0.65
+    - _NoiseRotationSpeed: 7.23
+    - _ReversePower: -0.84
+    - _SplitOffset: 3.78
+    m_Colors:
+    - Color_65d615bead0b49049be7d32cb475a6c5: {r: 0, g: 0, b: 0, a: 0}
+    - Color_c8364ce923f4467da7e181aab57aaa51: {r: 0, g: 0, b: 0, a: 1}
+    - Color_c8364ce923f4467da7e181aab57aaa51_1: {r: 0, g: 0, b: 0, a: 1}
+    - _GlitterColour: {r: 0.20073327, g: 0.20073327, b: 0.20073327, a: 1}
+    - _Noise_Scale: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
