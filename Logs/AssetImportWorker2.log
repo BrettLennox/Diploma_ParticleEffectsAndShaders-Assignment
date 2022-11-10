@@ -9,11 +9,11 @@ C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Unity.exe
 -batchMode
 -noUpm
 -name
-AssetImportWorker0
+AssetImportWorker2
 -projectPath
 C:/Users/Brett/Documents/GitHub/Diploma_ParticleEffectsAndShaders-Assignment
 -logFile
-Logs/AssetImportWorker0.log
+Logs/AssetImportWorker2.log
 -srvPort
 52831
 Successfully changed project path to: C:/Users/Brett/Documents/GitHub/Diploma_ParticleEffectsAndShaders-Assignment
