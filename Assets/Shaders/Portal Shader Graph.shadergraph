@@ -5563,7 +5563,7 @@
         "m_Id": "37ae504053a24637aaf426527504a047"
     },
     "m_SurfaceType": 1,
-    "m_AlphaMode": 0,
+    "m_AlphaMode": 3,
     "m_TwoSided": false,
     "m_AlphaClip": false,
     "m_CustomEditorGUI": ""
