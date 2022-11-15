@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Portal_mat
-  m_Shader: {fileID: -6465566751694194690, guid: 30e80f6d8c805894dab4d37dd560253c, type: 3}
+  m_Name: Shader Graphs_Stylized Water
+  m_Shader: {fileID: -6465566751694194690, guid: 621c0707893ee064187c3db2a8733f8d, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -32,16 +32,16 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _AlphaMax: 0.65
-    - _AlphaMin: 0.25
-    - _AlphaMultiplier: 0.87
-    - _ColourMultiplier: 0.86
-    - _FresnelMultiplier: 1.77
-    - _FresnelPower: 3.11
-    - _Height: 0.76
-    - _TwirlMultiplier: 0.38
-    - _Width: 0.73
+    - _FoamAmount: 0
+    - _FoamCutoff: 1
+    - _FoamScale: 100
+    - _FoamSpeed: 1
+    - _RefractionScale: 1
+    - _RefractionSpeed: 0.05
+    - _RefractionStrength: 2
+    - _WaterDepth: 1
     m_Colors:
-    - _PrimaryColour: {r: 0.11518324, g: 0.5, b: 0, a: 0}
-    - _SecondaryColour: {r: 0.10980392, g: 1.1529412, b: 0, a: 0}
+    - Color_1: {r: 0.0073928824, g: 0, b: 1, a: 0.5019608}
+    - FoamColour: {r: 1, g: 1, b: 1, a: 0.7490196}
+    - _ShallowWater: {r: 0, g: 0.8371129, b: 1, a: 0.2509804}
   m_BuildTextureStacks: []
