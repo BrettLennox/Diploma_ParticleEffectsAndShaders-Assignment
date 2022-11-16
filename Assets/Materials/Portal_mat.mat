@@ -42,6 +42,6 @@ Material:
     - _TwirlMultiplier: 0.38
     - _Width: 0.73
     m_Colors:
-    - _PrimaryColour: {r: 0.11518324, g: 0.5, b: 0, a: 0}
+    - _PrimaryColour: {r: 0.45490196, g: 2.0078433, b: 0, a: 0}
     - _SecondaryColour: {r: 0.10980392, g: 1.1529412, b: 0, a: 0}
   m_BuildTextureStacks: []
