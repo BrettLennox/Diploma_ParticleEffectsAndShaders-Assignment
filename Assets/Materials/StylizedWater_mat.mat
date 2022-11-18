@@ -41,11 +41,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _Alpha: 0.227
-    - _Choppiness: 0.06
+    - _Choppiness: 0.12
     - _FlowStrength: 0.0075
     - _FlowStrength_1: 0.01
     - _FoamDistance: 1.5
-    - _Size: 2.5
+    - _Size: 6
     m_Colors:
     - _DarkFoamColour: {r: 0, g: 0.13784683, b: 0.25471693, a: 1}
     - _LightFoamColour: {r: 1, g: 1, b: 1, a: 1}
