@@ -39,8 +39,10 @@ Material:
     - _BaseGradientPower: 3.36
     - _FresnelPower: 10
     - _GlitterOffset: 0.65
+    - _Metallic: 1
     - _NoiseRotationSpeed: 1
     - _ReversePower: -0.84
+    - _Smoothness: 0
     - _SplitOffset: 3.78
     m_Colors:
     - Color_65d615bead0b49049be7d32cb475a6c5: {r: 0, g: 0, b: 0, a: 0}
